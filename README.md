@@ -1,7 +1,7 @@
 Robotic Q learning in C
 ============
 
-Q-learning is a model-free reinforcement learning technique, which is used to make a two-wheeled simulated robot learn how to reach the other side of twisted hallways. This was a project for the robotics in my senior year of my undergrad in computer science at UDC (Spain) and is implemented in C.
+Q-learning is a model-free reinforcement learning technique, which is used to make a two-wheeled simulated robot learn how to reach the other side of twisted hallways. This was a project for the robotics course in my senior year of my undergrad in computer science at UDC (Spain) and is implemented in C.
 
 
 ## Problem explanation
